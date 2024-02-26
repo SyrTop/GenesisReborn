@@ -1,0 +1,2 @@
+setclipboard("https://dsc.gg/genesis-z")
+  print("u gay if u see this")
